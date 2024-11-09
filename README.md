@@ -1,5 +1,7 @@
 # Enhanced Multilingual Content Moderator with Sentiment, Emotion, and Entity Analysis
 
+![Project Logo](images/logo.png)
+
 A comprehensive, AI-powered content moderation tool for analyzing text across multiple languages. This project utilizes advanced NLP models to detect toxicity, sentiment, emotional tone, and relevant entities within user-generated content, making it ideal for online platforms, forums, and social media.
 
 🚀 **[Live Demo](https://60e22dedb3a2fe7281.gradio.live)**
