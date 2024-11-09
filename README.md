@@ -2,6 +2,8 @@
 
 A comprehensive, AI-powered content moderation tool for analyzing text across multiple languages. This project utilizes advanced NLP models to detect toxicity, sentiment, emotional tone, and relevant entities within user-generated content, making it ideal for online platforms, forums, and social media.
 
+🚀 **[Live Demo](https://60e22dedb3a2fe7281.gradio.live)**
+
 ## Project Overview
 
 The **Enhanced Multilingual Content Moderator** is a robust tool designed to provide real-time analysis of text input using state-of-the-art machine learning models. It allows platforms to maintain a respectful and constructive environment by:
